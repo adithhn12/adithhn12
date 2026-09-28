@@ -14,10 +14,6 @@ Multi-document AI chatbot using RAG for intelligent document querying.
 Machine learning project for classifying satellite imagery into
 different land-cover categories using the EuroSAT dataset.
 
-### 🎮 SkyRunner
-A 2D platformer game built with Godot featuring platforming,
-level progression and exploration.
-
 ### 🌊 AquaSphere — Hackathon
 Hackathon project focused on intelligent water-resource management.
 
@@ -25,19 +21,22 @@ Hackathon project focused on intelligent water-resource management.
 AI-powered assistant for manufacturing workflows, developed using
 the Gemini API.
 
+### 🎮 SkyRunner
+A 2D platformer game built with Godot featuring platforming,
+level progression and exploration.
+
 ### 👟 RetroSneaks
 Sneaker e-commerce website with a modern shopping experience.
 
 ## 🛠️ Technologies
 
-**Languages:**  
-Python • Java • JavaScript • HTML • CSS
+**Languages:** Python · Java · C
 
-**AI / ML:**  
-Machine Learning • RAG • Hugging Face • Gemini API
+**AI/ML:** TensorFlow · Scikit-learn · NumPy · Pandas · Hugging Face · RAG
 
-**Development:**  
-React • Node.js • MySQL • Firebase • Flutter
+**Development:** React · Node.js · MySQL
+
+**Tools & Platforms:** Git · GitHub · Godot · VS Code
 
 ## 🌱 Currently Exploring
 
