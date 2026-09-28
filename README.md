@@ -17,7 +17,7 @@ different land-cover categories using the EuroSAT dataset.
 ### 🌊 AquaSphere — Hackathon
 Hackathon project focused on intelligent water-resource management.
 
-### 🏭 AI Manufacturing Assistant — Hackathon
+### 🏭 OrderFlow — Hackathon
 AI-powered assistant for manufacturing workflows, developed using
 the Gemini API.
 
