@@ -21,6 +21,9 @@ Hackathon project focused on intelligent water-resource management.
 AI-powered assistant for manufacturing workflows, developed using
 the Gemini API.
 
+### 🎮 Tales of Everwood
+A top-down fantasy RPG built with Godot featuring combat, enemy AI, XP progression and level-up mechanics.
+
 ### 🎮 SkyRunner
 A 2D platformer game built with Godot featuring platforming,
 level progression and exploration.
