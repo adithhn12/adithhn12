@@ -41,6 +41,15 @@ Sneaker e-commerce website with a modern shopping experience.
 
 **Tools & Platforms:** Git · GitHub · Godot · VS Code
 
+## 🎮 Game Development
+
+I also build and publish games using Godot and GDScript.
+
+- **[Sky Runner](https://renrun12.itch.io/sky-runner)** — A 2D platformer featuring coins, obstacles, and challenging levels.
+- **[Tales of Everwood](https://renrun12.itch.io/tales-of-everwood)** — A top-down fantasy RPG featuring combat, enemies, and character progression.
+
+**[🎮 Visit my itch.io profile](https://renrun12.itch.io/)**
+
 ## 🌱 Currently Exploring
 
 - 🤖 AI & Machine Learning
