@@ -2,8 +2,7 @@
 
 🎓 MCA Student | 🤖 AI/ML | 💻 Software Development
 
-I'm interested in building practical projects with AI, machine learning,
-web technologies and creative software projects.
+I'm interested in building practical projects with AI, machine learning, creative software projects, and game development.
 
 ## 🚀 Featured Projects
 
