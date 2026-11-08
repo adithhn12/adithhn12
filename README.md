@@ -14,6 +14,12 @@ Multi-document AI chatbot using RAG for intelligent document querying.
 Machine learning project for classifying satellite imagery into
 different land-cover categories using the EuroSAT dataset.
 
+### ☕ CoffeeEstate-AI — In Progress
+A coffee estate computer vision project that uses YOLOv8 to detect cherry ripeness and provide harvest guidance.
+
+### 📸 SmartSnap-Hybrid
+A photo assessment tool that combines computer vision, Random Forest, and fuzzy logic to recommend whether an image should be kept, recovered, or retaken.
+
 ### 🌊 AquaSphere — Hackathon
 Hackathon project focused on intelligent water-resource management.
 
